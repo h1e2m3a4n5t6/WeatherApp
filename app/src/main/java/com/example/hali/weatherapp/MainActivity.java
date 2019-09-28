@@ -15,7 +15,6 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-// testing for changes in this file
 public class MainActivity extends AppCompatActivity {
 
 
